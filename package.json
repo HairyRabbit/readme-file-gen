@@ -1,7 +1,7 @@
 {
   "name": "readme-file-gen",
   "version": "0.0.1",
-  "description": "Generate README file from JavaScript project, base on your package.json",
+  "description": "Generate README file for JavaScript project, base on your package.json",
   "main": "index.js",
   "bin": "./bin/readme-file-gen",
   "dependencies": {
