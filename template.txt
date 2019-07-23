@@ -1,0 +1,13 @@
+<br/>
+
+<div align=center>
+
+# ${name}
+
+_${description}_
+
+_`npm i -D ${name}`_
+
+</div>
+
+<br />

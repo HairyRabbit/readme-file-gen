@@ -1,0 +1,34 @@
+{
+  "name": "readme-file-gen",
+  "version": "0.0.0",
+  "description": "Generate README file from JavaScript project, base on your package.json",
+  "main": "index.js",
+  "bin": "./bin/readme-file-gen",
+  "dependencies": {
+    "prompts": "^2.1.0",
+    "read-pkg-up": "^6.0.0",
+    "tslib": "^1.10.0",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.2",
+    "@types/prompts": "^2.0.1",
+    "@types/yargs": "^13.0.0",
+    "bin-file-gen": "0.0.4",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HairyRabbit/bin-file-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HairyRabbit/bin-file-gen/issues"
+  },
+  "homepage": "https://github.com/HairyRabbit/bin-file-gen#readme"
+}

@@ -1,2 +1,13 @@
+<br/>
+
+<div align=center>
+
 # readme-file-gen
-Generate README file from JavaScript project, base on your package.json 
+
+_Generate README file from JavaScript project, base on your package.json_
+
+_`npm i -D readme-file-gen`_
+
+</div>
+
+<br />
