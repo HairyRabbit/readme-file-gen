@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "readme-file-gen-test-basic-usage",
+  "version": "0.0.0",
+  "description": "test for readme-file-gen",
+  "main": "index.js",
+  "scripts": {
+    "start": "readme-file-gen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "readme-file-gen": "0.0.1"
+  }
+}
